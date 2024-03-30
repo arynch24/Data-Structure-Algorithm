@@ -9,6 +9,7 @@ int main()
     for(int i=0;i<n;i++)
         cin>>arr[i];
 
+    //this is in decreasing order but sorting is done from backword
     for(int i=n-1;i>0;i--)
     {
         int index=i;

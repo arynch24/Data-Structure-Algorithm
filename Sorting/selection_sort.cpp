@@ -16,6 +16,7 @@ int main()
         int index=i;   
         for(int j=i+1;j<n;j++)
         {
+            //for decreasing just change th sign.
             if(arr[index]>arr[j])
             {
               index=j;
