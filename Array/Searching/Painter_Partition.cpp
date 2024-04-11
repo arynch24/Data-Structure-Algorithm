@@ -1,3 +1,6 @@
+//binary search hint!!!!!!!!!!!!!!!!!!1
+//contiguous allocation and in that find minimu or maximum.
+
 //similar to book allocation
 //imp. question
 //catch the pattern carefully
