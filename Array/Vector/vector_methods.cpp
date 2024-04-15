@@ -4,9 +4,9 @@ int main()
 {
     vector<int> v = {3, 2, 14, 6, 8, 1, 9};
     // for sorting in asc
-    sort(v.begin(), v.end());
+    sort(v.begin(), v.end());//time complexity O(n(logn))
     for (int i = 0; i < v.size(); i++)
-        cout << v[i] << " ";
+    cout << v[i] << " ";
     cout << endl;
 
     // sort desc
